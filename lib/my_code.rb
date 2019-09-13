@@ -1,3 +1,3 @@
-def map(array) do 
+def map(array) 
   
 end
